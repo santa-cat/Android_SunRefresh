@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="headerSkyColor">#5589C8E2</color>
+    <color name="headerSeaColorTop">#FF87E3D5</color>
+    <color name="headerSeaColorBetwm">#FF3D929A</color>
+    <color name="headerSeaColorButtom">#FF3C5E70</color>
+    <color name="headerWhaleColor">#FF30ABB2</color>
+    <color name="headerSunColor">#aabb4455</color>
+</resources>
